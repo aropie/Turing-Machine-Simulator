@@ -1,5 +1,4 @@
 # Turing Machine Simulator
-#### By Adrian Antonio Rodriguez Pie
 
 
 Simulates a turing machine given a **.tm** file.
